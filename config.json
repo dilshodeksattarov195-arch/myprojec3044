@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderponnect",
+        "uuid": 5579652,
+        "checksum": "cabn14"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
